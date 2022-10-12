@@ -1,0 +1,27 @@
+/*Сброс дефолтных настроек бразеров*/
+@import url(../vendor/reset.css);
+/*Подключаю шрифты*/
+
+/*Блок Header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__link/header__link.css);
+
+.page-wrapper {
+    width: 100%;
+    background: #E5E5E5;
+}
+
+.page {
+    min-width: 320px;
+    max-width: 1440px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.wrapper {
+    max-width: 1060px;
+    margin: 0 auto;
+}
