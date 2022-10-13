@@ -1,4 +1,13 @@
 .header__link {
     text-decoration: none;
-    color: white;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.header__link:hover, .header__link:focus, .header__link:active {
+    opacity: .65;
 }

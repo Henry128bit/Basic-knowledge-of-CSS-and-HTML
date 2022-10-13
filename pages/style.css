@@ -1,16 +1,14 @@
 /*Сброс дефолтных настроек бразеров*/
 @import url(../vendor/reset.css);
 /*Подключаю шрифты*/
-
+@import url(../vendor/fonts.css);
 /*Блок Header*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__list/header__list.css);
-@import url(../blocks/header/__item/header__item.css);
-@import url(../blocks/header/__link/header__link.css);
+/*Блок Intro*/
+@import url(../blocks/intro/intro.css);
 
 .page-wrapper {
     width: 100%;
-    background: #E5E5E5;
 }
 
 .page {
@@ -21,7 +19,14 @@
     margin: 0 auto;
 }
 
+.background-wrapper {
+    height: 1440px;
+    height: 960px;
+    background: url(../images/wraper/background.jpg) no-repeat center;
+    background-size: cover;
+}
 .wrapper {
     max-width: 1060px;
+    padding-top: 56px;
     margin: 0 auto;
 }
