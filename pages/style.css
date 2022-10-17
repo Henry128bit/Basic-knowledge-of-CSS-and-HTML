@@ -12,21 +12,17 @@
 }
 
 .page {
-    min-width: 320px;
+    position: relative;
     max-width: 1440px;
+    min-width: 320px;
     box-sizing: border-box;
     padding: 0;
     margin: 0 auto;
 }
 
 .background-wrapper {
-    height: 1440px;
+    width: 1440px;
     height: 960px;
     background: url(../images/wraper/background.jpg) no-repeat center;
     background-size: cover;
-}
-.wrapper {
-    max-width: 1060px;
-    padding-top: 56px;
-    margin: 0 auto;
 }
