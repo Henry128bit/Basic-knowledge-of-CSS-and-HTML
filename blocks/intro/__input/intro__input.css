@@ -1,0 +1,33 @@
+.intro__input {
+    width: 295px;
+    height: 50px;
+    box-sizing: border-box;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFF;
+
+    background: url(/images/intro/input-circle.svg) no-repeat left 4px;
+    background-size: 20px;
+    border: 0;
+    border-bottom: 2px solid #BFC0C5;
+
+    padding: 0 0 20px 40px;
+}
+
+.intro__input:active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+.intro__input::placeholder {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFF;
+}
