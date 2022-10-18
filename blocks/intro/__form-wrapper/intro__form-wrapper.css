@@ -1,0 +1,5 @@
+.intro__form-wrapper{
+    width: 865px;
+    display: flex;
+    justify-content: space-between;
+}

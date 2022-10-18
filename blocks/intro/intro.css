@@ -1,14 +1,24 @@
 @import url(../intro/__title/intro__title.css);
 @import url(../intro/__text/intro__text.css);
+@import url(../intro/__form-wrapper/intro__form-wrapper.css);
+@import url(../intro/__input/intro__input.css);
+@import url(../intro/__button/intro__button.css);
 
 .intro {
-    height: 100vh;
-    background: url(/images/wraper/background.jpg) no-repeat center;
-    background-size: cover;
+    background: url(/images/intro/background.jpg) no-repeat center;
+    background-size: 100% 100%;
 
     display: flex;
     flex-direction: column;
 
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-style: normal;
+    color: #FFFFFF;
+
     padding-top: 260px;
     padding-left: 190px;
+    padding-bottom: 370px;
 }
