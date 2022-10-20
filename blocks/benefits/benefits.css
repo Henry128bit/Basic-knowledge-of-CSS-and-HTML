@@ -1,0 +1,27 @@
+@import url(../benefits/__title/benefits__title.css);
+@import url(../benefits/__wrapper/benefits__wrapper.css);
+@import url(../benefits/__card/benefits__card.css);
+@import url(../benefits/__icon/benefits__icon.css);
+@import url(../benefits/__card-title/benefits__card-title.css);
+@import url(../benefits/__text/benefits__text.css);
+@import url(../benefits/__link/benefits__link.css);
+
+.benefits {
+    position: relative;
+    bottom: 225px;
+    box-sizing: border-box;
+    width: 1260px;
+    height: 655px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+
+    background-color: #FFF;
+    box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.15993);
+    padding: 90px 100px 110px;
+    margin: 0 auto -225px;
+}
