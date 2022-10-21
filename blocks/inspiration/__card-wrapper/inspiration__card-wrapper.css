@@ -1,0 +1,6 @@
+.inspiration__card-wrapper{
+    display: grid;
+    grid-template-columns: repeat(6, 210px);
+    grid-template-rows: 355px 280px;
+    grid-gap: 10px;
+}
