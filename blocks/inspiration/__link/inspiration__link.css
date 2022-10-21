@@ -1,0 +1,9 @@
+.inspiration__link{
+    align-self: center;
+    width: 135px;
+    background: no-repeat 90px center;
+}
+
+.inspiration__link:hover, .benefits__link:focus {
+    background: no-repeat 100px center;
+}

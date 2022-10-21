@@ -1,0 +1,18 @@
+@import url(../inspiration/__wrapper/inspiration__wrapper.css);
+@import url(../inspiration/__title/inspiration__title.css);
+@import url(../inspiration/__link/inspiration__link.css);
+@import url(../inspiration/__card-wrapper/inspiration__card-wrapper.css);
+@import url(../inspiration/__card/inspiration__card.css);
+@import url(../inspiration/__picture/inspiration__picture.css);
+@import url(../inspiration/__card-name/inspiration__card-name.css);
+
+.inspiration{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #102746;
+
+    padding: 130px 90px 100px;
+}

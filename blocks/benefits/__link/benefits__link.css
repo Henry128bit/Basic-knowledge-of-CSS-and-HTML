@@ -1,11 +1,7 @@
 .benefits__link{
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #006DFE;
-    background: url(/images/benefits/link-arrow.svg) no-repeat 130px center;
-    transition: .2s all;
+    background: no-repeat 130px center;
 }
 
 .benefits__link:hover, .benefits__link:focus {
-    background: url(/images/benefits/link-arrow.svg) no-repeat 140px center;
+    background: no-repeat 140px center;
 }
