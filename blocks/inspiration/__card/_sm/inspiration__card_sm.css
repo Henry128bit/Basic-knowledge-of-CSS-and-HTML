@@ -1,0 +1,4 @@
+.inspiration__card_sm{
+    grid-column: span 2;
+    height: 280px;
+}

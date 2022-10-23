@@ -1,0 +1,4 @@
+.inspiration__card_lg{
+    grid-column: span 3;
+    height: 355px;
+}

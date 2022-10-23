@@ -3,8 +3,21 @@
 @import url(../inspiration/__link/inspiration__link.css);
 @import url(../inspiration/__card-wrapper/inspiration__card-wrapper.css);
 @import url(../inspiration/__card/inspiration__card.css);
+@import url(../inspiration/__card/_lg/inspiration__card_lg.css);
+@import url(../inspiration/__card/_sm/inspiration__card_sm.css);
 @import url(../inspiration/__picture/inspiration__picture.css);
 @import url(../inspiration/__card-name/inspiration__card-name.css);
+@import url(../inspiration/__places-wrapper/inspiration__places-wrapper.css);
+@import url(../inspiration/__place/inspiration__place.css);
+@import url(../inspiration/__place/_reverse/inspiration__place_reverse.css);
+@import url(../inspiration/__place-picture/inspiration__place-picture.css);
+@import url(../inspiration/__info-wrapper/inspiration__info-wrapper.css);
+@import url(../inspiration/__info-wrapper/_reverse/inspiration__info-wrapper_reverse.css);
+@import url(../inspiration/__subtitle/inspiration__subtitle.css);
+@import url(../inspiration/__subtitle/_long/inspiration__subtitle_long.css);
+@import url(../inspiration/__text/inspiration__text.css);
+@import url(../inspiration/__link-info/inspiration__link-info.css);
+@import url(../inspiration/__link-info/_long/inspiration__link-info_long.css);
 
 .inspiration{
     font-family: 'Lato';
@@ -14,5 +27,5 @@
     line-height: 24px;
     color: #102746;
 
-    padding: 130px 90px 100px;
+    padding: 130px 90px 140px;
 }

@@ -1,0 +1,7 @@
+.inspiration__link-info_long{
+    background: no-repeat 205px center;
+}
+
+.inspiration__link-info_long:hover, .benefits__link-info_long:focus {
+    background: no-repeat 215px center;
+}
