@@ -1,5 +1,5 @@
-.inspiration__wrapper {
+.visit__wrapper{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 35px;
+    flex-wrap: wrap;
 }

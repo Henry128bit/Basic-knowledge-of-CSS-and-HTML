@@ -16,7 +16,7 @@
 }
 
 .inspiration__card:hover::after{
-    background-color: rgba(21, 24, 36, 0);
+    background-color: rgba(21, 24, 36, 0.2);
     transition:  all .45s cubic-bezier(0.47, 0, 0.745, 0.715);
     cursor: pointer;
 }

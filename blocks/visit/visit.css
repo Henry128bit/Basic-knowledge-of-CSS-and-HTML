@@ -1,0 +1,27 @@
+@import url(../visit/__title/visit__title.css);
+@import url(../visit/__wrapper/visit__wrapper.css);
+@import url(../visit/__card/visit__card.css);
+@import url(../visit/__card-wrapper/visit__card-wrapper.css);
+@import url(../visit/__picture/visit__picture.css);
+@import url(../visit/__card-info/visit__card-info.css);
+@import url(../visit/__card-name/visit__card-name.css);
+@import url(../visit/__info-wrapper/visit__info-wrapper.css);
+@import url(../visit/__like-wrapper/visit__like-wrapper.css);
+@import url(../visit/__like-number/visit__like-number.css);
+@import url(../visit/__like-button/visit__like-button.css);
+@import url(../visit/__comment-wrapper/visit__comment-wrapper.css);
+@import url(../visit/__comment-number/visit__comment-number.css);
+@import url(../visit/__comment-link/visit__comment-link.css);
+@import url(../visit/__text/visit__text.css);
+@import url(../visit/__button/visit__button.css);
+
+.visit{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #102746;
+
+    padding: 0px 90px 145px;
+}

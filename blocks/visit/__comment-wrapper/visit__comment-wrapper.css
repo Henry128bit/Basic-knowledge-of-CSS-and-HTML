@@ -1,5 +1,5 @@
-.inspiration__wrapper {
+.visit__comment-wrapper{
+    width: 42px;
     display: flex;
     justify-content: space-between;
-    padding-bottom: 35px;
 }
