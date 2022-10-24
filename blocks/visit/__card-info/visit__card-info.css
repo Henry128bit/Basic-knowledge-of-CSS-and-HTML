@@ -1,0 +1,14 @@
+.visit__card-info{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    
+    background: rgba(21, 24, 36, 0.6);
+
+    padding: 15px 25px;
+}
