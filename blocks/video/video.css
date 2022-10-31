@@ -1,0 +1,10 @@
+@import url(../video/__item/video__item.css);
+@import url(../video/__element/video__element.css);
+
+.video {
+   /* width: 100%; */
+   max-width: 1440px;
+   max-height: 610px;
+   margin: 0 auto;
+   position: relative;
+}
