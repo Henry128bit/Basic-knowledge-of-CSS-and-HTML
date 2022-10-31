@@ -12,9 +12,12 @@
 @import url(../blocks/inspiration/inspiration.css);
 /*Блок Visit*/
 @import url(../blocks/visit/visit.css);
+/*Блок Video*/
+@import url(../blocks/video/video.css);
 
 .page-wrapper {
     width: 100%;
+    background-color: #F2F2F2;
 }
 
 .page {
@@ -22,7 +25,7 @@
     max-width: 1440px;
     min-width: 320px;
     box-sizing: border-box;
-    background-color: #F2F2F2;
+    background-color: #FFF;
     padding: 0;
     margin: 0 auto;
 }
