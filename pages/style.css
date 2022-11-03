@@ -14,6 +14,8 @@
 @import url(../blocks/visit/visit.css);
 /*Блок Video*/
 @import url(../blocks/video/video.css);
+/*Блок Footer*/
+@import url(../blocks/footer/footer.css);
 
 .page-wrapper {
     width: 100%;
@@ -28,6 +30,20 @@
     background-color: #FFF;
     padding: 0;
     margin: 0 auto;
+}
+
+.link {
+    text-decoration: none;
+
+    font-family: 'Lato';
+    font-weight: 400;
+    line-height: 24px;
+    font-style: normal;
+    color: #FFF;
+}
+
+.link:hover, .link:focus, .link:active {
+    opacity: .65;
 }
 
 .button {
