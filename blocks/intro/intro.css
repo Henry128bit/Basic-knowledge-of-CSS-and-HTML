@@ -5,7 +5,7 @@
 @import url(../intro/__button/intro__button.css);
 
 .intro {
-    background: url(/images/intro/background.jpg) no-repeat center;
+    background: url(../../images/intro/background.jpg) no-repeat center;
     background-size: 100% 100%;
 
     display: flex;
